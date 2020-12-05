@@ -15,5 +15,3 @@
 #### The model tries different parameters using Randomized Search Cross Validation. It currently uses ADAM to update weights of Neural Network.
 
 
-###### part of coursework for Machine Learning
-
